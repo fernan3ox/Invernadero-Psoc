@@ -1,0 +1,6 @@
+C:\Users\Jonatan\Documents\PSoC Creator\Invernadero\Invernadero.cydsn\Invernadero.cyprj|277e8b61-9952-43aa-b893-cacbe41f1e6d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|5adcc01a-b5ea-408b-a5cc-05f88bdef83f
+C:\Users\Jonatan\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|d6e4c2c4-6925-4014-8855-383f899ea4dc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|783c72c9-14d0-43ea-b3bb-e5614e8eee63
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|8f6fa9da-8177-4873-b649-943b00a0f2de
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|315d3b50-c52a-460c-a303-7fe79b5687e7
